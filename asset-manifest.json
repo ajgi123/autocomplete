@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BitBay/static/css/main.a617e044.chunk.css",
+    "main.js": "/BitBay/static/js/main.0a359504.chunk.js",
+    "main.js.map": "/BitBay/static/js/main.0a359504.chunk.js.map",
+    "runtime-main.js": "/BitBay/static/js/runtime-main.5a123ff2.js",
+    "runtime-main.js.map": "/BitBay/static/js/runtime-main.5a123ff2.js.map",
+    "static/js/2.6551c799.chunk.js": "/BitBay/static/js/2.6551c799.chunk.js",
+    "static/js/2.6551c799.chunk.js.map": "/BitBay/static/js/2.6551c799.chunk.js.map",
+    "static/js/3.ebea6000.chunk.js": "/BitBay/static/js/3.ebea6000.chunk.js",
+    "static/js/3.ebea6000.chunk.js.map": "/BitBay/static/js/3.ebea6000.chunk.js.map",
+    "index.html": "/BitBay/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/BitBay/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.6551c799.chunk.js.LICENSE.txt": "/BitBay/static/js/2.6551c799.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/BitBay/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a123ff2.js",
+    "static/js/2.6551c799.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.0a359504.chunk.js"
+  ]
+}
